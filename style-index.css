@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.contendorTitulo{
+    text-align: center;
+    background-color: rgb(255, 248, 189);
+    margin-bottom: 50px;
+}
+
+.accordion{
+    width: 90%;
+    margin: 50px auto;
+}
+
+
+.elemento2Titulo{
+    text-align: center;
+    background-color: rgb(255, 248, 189);
+    margin-bottom: 40px;
+}
+
+
+.carousel{
+    width: 60%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.carousel img{
+    width: 300px;
+    height: 500px;
+}
+
